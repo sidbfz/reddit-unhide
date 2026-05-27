@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-firefox/
+web-ext-artifacts/
+
+# Generated/release packages
+*.zip
+
+# Review and store submission assets
+proof/
+webstore_images/
+
+# Logs and diagnostics
+*.log
+errors*.txt
+
+# Local environment files
+.env
+.env.*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
