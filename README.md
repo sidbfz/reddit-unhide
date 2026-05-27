@@ -1,5 +1,11 @@
 # Unhider for Reddit
 
+## Project Restart Notice
+
+The original extension was suspended due to a trademark infringement claim by Reddit. After speaking with Google's legal team, the recommended path was to change the extension name and publish it again under a different extension ID.
+
+The previous listing had 700+ users across Chrome and Firefox, but that listing is no longer available. This project is starting again from 0 users under the new listing.
+
 **Install the extension:**
 - 🥇 [Available on the Chrome Web Store](https://chromewebstore.google.com/detail/unhider-for-reddit/ikcadejmgkijfldlndckdbmkkaimlmel)
 - 🦊 [Available on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/reddit-unhider/)
